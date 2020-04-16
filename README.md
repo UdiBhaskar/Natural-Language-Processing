@@ -1,2 +1,2 @@
 # Natural-Language-Processing
-NLP guide with tf.keras
+NLP guide with tensorflow 2.x
